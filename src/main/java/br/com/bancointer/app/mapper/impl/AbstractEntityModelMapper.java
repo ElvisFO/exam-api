@@ -13,7 +13,6 @@ import java.util.stream.Collectors;
  */
 public abstract class AbstractEntityModelMapper<T, D> implements EntityModelMapper<T, D> {
 
-    //@Autowired
     private final ModelMapper modelMapper;
 
     protected AbstractEntityModelMapper(ModelMapper modelMapper) {

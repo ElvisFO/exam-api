@@ -1,6 +1,5 @@
 package br.com.bancointer.app.config;
 
-import br.com.bancointer.app.dto.JobDTO;
 import br.com.bancointer.app.model.Job;
 import br.com.bancointer.app.repository.JobRepository;
 import br.com.bancointer.app.service.JobService;
